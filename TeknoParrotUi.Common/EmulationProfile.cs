@@ -1,4 +1,4 @@
-﻿namespace TeknoParrotUi.Common
+namespace TeknoParrotUi.Common
 {
     public enum EmulationProfile
     {
@@ -93,6 +93,26 @@
         NamcoGundamPod,
         TheAct,
         SAO,
-        Harley
+        Harley,
+        SiN,
+        MarioBros,
+        PrimevalHunt,
+        IDZ,
+        EXVS2,
+        EXVS2XB,
+        HotWheels,
+        MusicGunGun2,
+        GaiaAttack4,
+        HauntedMuseum,
+        HauntedMuseum2,
+        WonderlandWars,
+        WinningEleven,
+        Friction,
+        ALLSSCHRONO,
+        ALLSFGO,
+        Castlevania,
+        NxL2,
+        JojoLastSurvivor,
+        GundamKizuna2
     }
 }
